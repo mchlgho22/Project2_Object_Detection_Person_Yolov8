@@ -63,7 +63,7 @@ pip install ultralytics pycocotools tqdm
 Model yang digunakan:
 
 ```python
-YOLO("yolov8m.pt")
+YOLO("yolov8n.pt")
 ```
 
 Parameter training:
@@ -155,20 +155,3 @@ model/
 
 ---
 
-## ⚠️ Catatan
-
-* Training dilakukan di Google Colab (GPU terbatas)
-* Dataset besar → sebaiknya simpan di Google Drive
-* Clear output sebelum upload ke GitHub agar file tidak terlalu besar
-
----
-
-## 👨‍💻 Author
-
-Michael Salabintago
-
----
-
-## ⭐️ Support
-
-Jika project ini membantu, jangan lupa ⭐️ repository ini!
